@@ -1,3 +1,5 @@
+//gcc Slate.c chickenRun.c talkingTom.c notesEdit.c fred.c dictionary.c terminal.c calendar.c browser.c 
+//mpvPlayer.c -o slate -lncurses -lcurl -lssl -lcrypto -I/opt/homebrew/opt/openssl/include -L/opt/homebrew/opt/openssl/lib
 #include <ncurses.h>
 #include <stdbool.h>
 #include <string.h>
