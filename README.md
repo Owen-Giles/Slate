@@ -37,7 +37,7 @@ Directions
       ```gcc give up the ghost dude, I'm just a freshman, it ain't working brother```
 
    *  Run with:
-      *  ./Slate
+      *  `./Slate`
 
 Licensing 
 ===============================================================================
