@@ -68,9 +68,7 @@ Final notes
 Credits
 ===============================================================================
 
-*  Slate made by Owen Giles and Cole Stanley 
-   *  With minimal help from AI 
-         *  30% AI
+*  Slate made by Owen Giles and Cole 
 *  Gemini browser made by ir33k 
    *  https://github.com/ir33k/gmi100/tree/master
    *  This is free and unencumbered software released into the public domain.  
